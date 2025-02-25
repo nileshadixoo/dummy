@@ -8,3 +8,7 @@ const newfn = ()=>{
         "new function"
     )
 }
+const function2 = ()=>{
+    console.log('another function added');
+    
+}
