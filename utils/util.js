@@ -16,3 +16,7 @@ const function3 = ()=>{
     console.log('another function added');
     
 }
+const function4 = ()=>{
+    console.log('another function added');
+    
+}
