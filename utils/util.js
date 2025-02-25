@@ -12,3 +12,7 @@ const function2 = ()=>{
     console.log('another function added');
     
 }
+const function3 = ()=>{
+    console.log('another function added');
+    
+}
